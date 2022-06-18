@@ -12,7 +12,7 @@ This project aim to enhance kdeconnect android  notification module, current ver
 
 You can download  this project file or use local url:
 
-http://bucket.xiaozhitodo.com/tos%2FKde-connect-enhancer.apk
+http://bucket.xiaozhitodo.com/tos%2FKde-connect-enhancer-1.19.1.apk
 
 
 
