@@ -1,5 +1,5 @@
 # kdeconnect-enhancer
-This project aim to enhance kdeconnect android  notification module, current version is  1.19.1
+This project aim to enhance kdeconnect android  notification module, current version is  1.19.1,It is base on official project 
 
 ### Feature
 
