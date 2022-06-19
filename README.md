@@ -16,7 +16,7 @@ http://bucket.xiaozhitodo.com/tos%2FKde-connect-enhancer-1.19.1.apk
 
 
 
-Kdeconnect is a very useful app for sync diffrent devices,You can get more info In Local website
+Kdeconnect is a very useful app for sync diffrent devices,You can get more info In follow website
 
 Multi-platform app that allows your devices to communicate
 
