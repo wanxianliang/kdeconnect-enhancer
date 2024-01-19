@@ -3,7 +3,7 @@ This project aim to enhance kdeconnect android  notification module, current ver
 
 ### Feature
 
-1. Enable notification after app was killed
+1. Enable notification permission after app was killed
 2. Enable local notification like wechat notification
 
 
@@ -24,4 +24,4 @@ https://invent.kde.org/network/kdeconnect-kde
 
 
 
-I holp this app could help you,If you like it,please give me a star,Thank you❤️。
+I hope this app could help you,If you like it,please give me a star,Thank you❤️。
